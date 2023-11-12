@@ -1,6 +1,6 @@
 # Node-project
 
-This is Node.js progect.
+This is Node.js project.
 
 ## Tools
 Node.js, Nodemon.
